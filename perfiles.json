@@ -1,0 +1,24 @@
+[
+    {
+      "nombre": "Juan Pérez",
+      "gmail": "juan@gmail.com",
+      "contraseña": "contraseña123",
+      "edad": 30,
+      "domicilio": "123 Calle Principal"
+    },
+    {
+      "nombre": "María López",
+      "gmail": "maria@gmail.com",
+      "contraseña": "claveSegura456",
+      "edad": 28,
+      "domicilio": "456 Avenida Secundaria"
+    },
+    {
+      "nombre": "Pedro Ramírez",
+      "gmail": "pedro@gmail.com",
+      "contraseña": "miPass789",
+      "edad": 35,
+      "domicilio": "789 Calle Principal"
+    }
+  ]
+  
